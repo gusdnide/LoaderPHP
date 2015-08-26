@@ -1,0 +1,9 @@
+E:\Projeto\Novos Projetos4\Loader\Update.exe\bin\Debug\Update.exe.exe.config
+E:\Projeto\Novos Projetos4\Loader\Update.exe\bin\Debug\Update.exe.exe
+E:\Projeto\Novos Projetos4\Loader\Update.exe\bin\Debug\Update.exe.pdb
+E:\Projeto\Novos Projetos4\Loader\Update.exe\bin\Debug\Update.exe.xml
+E:\Projeto\Novos Projetos4\Loader\Update.exe\obj\Debug\Update.exe.Resources.resources
+E:\Projeto\Novos Projetos4\Loader\Update.exe\obj\Debug\Update.exe.vbproj.GenerateResource.Cache
+E:\Projeto\Novos Projetos4\Loader\Update.exe\obj\Debug\Update.exe.exe
+E:\Projeto\Novos Projetos4\Loader\Update.exe\obj\Debug\Update.exe.xml
+E:\Projeto\Novos Projetos4\Loader\Update.exe\obj\Debug\Update.exe.pdb

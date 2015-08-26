@@ -1,0 +1,12 @@
+E:\Projeto\Novos Projetos4\Loader\Loader\bin\Debug\Loader.exe.config
+E:\Projeto\Novos Projetos4\Loader\Loader\bin\Debug\Loader.exe
+E:\Projeto\Novos Projetos4\Loader\Loader\bin\Debug\Loader.pdb
+E:\Projeto\Novos Projetos4\Loader\Loader\bin\Debug\Loader.xml
+E:\Projeto\Novos Projetos4\Loader\Loader\obj\Debug\Loader.Form1.resources
+E:\Projeto\Novos Projetos4\Loader\Loader\obj\Debug\Loader.Form2.resources
+E:\Projeto\Novos Projetos4\Loader\Loader\obj\Debug\Loader.Resources.resources
+E:\Projeto\Novos Projetos4\Loader\Loader\obj\Debug\Loader.vbproj.GenerateResource.Cache
+E:\Projeto\Novos Projetos4\Loader\Loader\obj\Debug\Loader.exe
+E:\Projeto\Novos Projetos4\Loader\Loader\obj\Debug\Loader.xml
+E:\Projeto\Novos Projetos4\Loader\Loader\obj\Debug\Loader.pdb
+E:\Projeto\Novos Projetos4\Loader\Loader\obj\Debug\Loader.vbprojResolveAssemblyReference.cache
