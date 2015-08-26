@@ -1,6 +1,5 @@
 # LoaderPHP
-/*************************************\n
-/* Author: gusdnide                  *\n
-/* Org: TheMothership                *\n
-/*************************************\n
+Author: gusdnide
+Org: TheMothership
+
 ## Leecher's passam mal _\|/_
